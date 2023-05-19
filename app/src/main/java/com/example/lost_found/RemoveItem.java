@@ -15,7 +15,6 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 public class RemoveItem extends AppCompatActivity {
-
     MyDatabaseHelper databaseHelper;
 
     TextView Get_Post,Get_Name,Get_Phone,Get_Dec,Get_Date,Get_Location;
